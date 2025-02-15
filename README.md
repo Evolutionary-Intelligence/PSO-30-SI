@@ -1,4 +1,4 @@
-# Seminar on 30-Year Particle Swarm Optimization (PSO) Inspired by Swarm Intelligence (SI)
+# A 2025 Seminar on 30-Year Particle Swarm Optimization (PSO) Inspired by Swarm Intelligence (SI)
 
 ## Members of Program Committee
 
