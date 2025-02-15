@@ -11,5 +11,5 @@
 * [Lijun Sun](https://scholar.google.com/citations?hl=en&user=Q-mGpFUAAAAJ), Shenzhen Technology University, China
 * [Zhiwei Xu](https://jaywayxu.github.io/), Wuhan University of Science and Technology, China
 * [Yijun Yang](https://stevenyangyj.github.io/), Tencent Inc., China
-* [Haoran Ye](https://henry-yeh.github.io/), Peking University
+* [Haoran Ye](https://henry-yeh.github.io/), Peking University, China
 * [Guochen Zhou](https://scholar.google.com/citations?user=TQu92D8AAAAJ&hl=en), University of Connecticut, USA
