@@ -1,4 +1,4 @@
-# PSO-30-SI
+# Seminar on 30-Year Particle Swarm Optimization (PSO) Inspired by Swarm Intelligence (SI)
 
 
 ## Members of Program Committee
