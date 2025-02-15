@@ -1,4 +1,4 @@
-# Seminar on 30-Year Particle Swarm Optimization (PSO) Inspired by Swarm Intelligence (SI)
+# PSO-30-SI
 
 
 ## Members of Program Committee
@@ -11,3 +11,4 @@
 * [Zhiwei Xu](https://jaywayxu.github.io/), Wuhan University of Science and Technology, China
 * [Yijun Yang](https://stevenyangyj.github.io/), Tencent Inc., China
 * [Guochen Zhou](https://scholar.google.com/citations?user=TQu92D8AAAAJ&hl=en), University of Connecticut, USA
+* [Lijun Sun](https://scholar.google.com/citations?hl=en&user=Q-mGpFUAAAAJ), Shenzhen Technology University, China
