@@ -15,4 +15,5 @@
 * [Yijun Yang](https://stevenyangyj.github.io/), Tencent Inc., China
 * [Haoran Ye](https://henry-yeh.github.io/), Peking University, China
 * [Qi Zhao](https://scholar.google.com/citations?user=myZogi0AAAAJ&hl=en), Southern University of Science and Technology, China
+* Jian Zeng, Guangdong Police College, China
 * [Guochen Zhou](https://scholar.google.com/citations?user=TQu92D8AAAAJ&hl=en), University of Connecticut, USA
