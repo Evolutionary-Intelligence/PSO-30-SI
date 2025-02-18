@@ -7,10 +7,10 @@
 @article{2021-NMI-Weiel,
   title={Dynamic particle swarm optimization of biomolecular simulation parameters with flexible objective functions},
   author={Weiel, Marie and G{\"o}tz, Markus and Klein, Andr{\'e} and Coquelin, Daniel and Floca, Ralf and Schug, Alexander},
-  journal={Nature machine intelligence},
+  journal={Nature Machine Intelligence},
   volume={3},
   number={8},
   pages={727--734},
   year={2021},
-  publisher={Nature Publishing Group UK London}
+  publisher={Nature}
 }
