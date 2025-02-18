@@ -18,3 +18,7 @@
 * [Qi Zhao](https://scholar.google.com/citations?user=myZogi0AAAAJ&hl=en), Southern University of Science and Technology, China
 * Jian Zeng, Guangdong Police College, China
 * [Guochen Zhou](https://scholar.google.com/citations?user=TQu92D8AAAAJ&hl=en), University of Connecticut, USA
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation): A
+summary of total number of visitors for [Evolutionary-Intelligence.github.io](https://evolutionary-intelligence.github.io/)
+and [DistributedEvolutionaryComputation](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation).
