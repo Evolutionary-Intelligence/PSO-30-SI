@@ -3,6 +3,7 @@
 ## Artifical Intelligence
 
 * Feng, S., Wang, Z., Wang, Y., Ebrahimi, S., Palangi, H., Miculicich, L., Kulshrestha, A., Rauschmayr, N., Choi, Y., Tsvetkov, Y. and Lee, C.Y., 2024. [Model swarms: Collaborative search to adapt LLM experts via swarm intelligence](). arXiv preprint arXiv:2410.11163.
+* Feng, S., Wang, Z., Goyal, P., Wang, Y., Shi, W., Xia, H., Palangi, H., Zettlemoyer, L., Tsvetkov, Y., Lee, C.Y. and Pfister, T., 2025. [Heterogeneous Swarms: Jointly optimizing model roles and weights for multi-LLM systems](). arXiv preprint arXiv:2502.04510.
 
 ## Biology
 
