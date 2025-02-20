@@ -1,5 +1,9 @@
 #
 
+## Artifical Life
+
+* Feng, S., Wang, Z., Wang, Y., Ebrahimi, S., Palangi, H., Miculicich, L., Kulshrestha, A., Rauschmayr, N., Choi, Y., Tsvetkov, Y. and Lee, C.Y., 2024. [Model swarms: Collaborative search to adapt LLM experts via swarm intelligence](). arXiv preprint arXiv:2410.11163.
+
 ## Biology
 
 * Weiel, M., Götz, M., Klein, A., Coquelin, D., Floca, R. and Schug, A., 2021. [Dynamic particle swarm optimization of biomolecular simulation parameters with flexible objective functions](). **Nature Machine Intelligence**, 3(8), pp.727-734.
