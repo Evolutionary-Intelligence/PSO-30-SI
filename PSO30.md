@@ -2,7 +2,9 @@
 
 ## Aeronautics&Astronautics
 
-* Venter, G. and Sobieszczanski-Sobieski, J., 2003. [Particle swarm optimization](). AIAA Journal, 41(8), pp.1583-1589.
+* Venter, G. and Sobieszczanski-Sobieski, J., 2003. [Particle swarm optimization](). **AIAA Journal**, 41(8), pp.1583-1589.
+  * *In Discrete/Integer Search Space*
+  * *Discuss on Massively Parallel Computing of PSO*
 
 ## Artifical Intelligence
 
