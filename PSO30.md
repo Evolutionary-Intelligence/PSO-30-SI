@@ -1,5 +1,9 @@
 #
 
+## Aeronautics&Astronautics
+
+* Venter, G. and Sobieszczanski-Sobieski, J., 2003. [Particle swarm optimization](). AIAA Journal, 41(8), pp.1583-1589.
+
 ## Artifical Intelligence
 
 * Feng, S., Wang, Z., Wang, Y., Ebrahimi, S., Palangi, H., Miculicich, L., Kulshrestha, A., Rauschmayr, N., Choi, Y., Tsvetkov, Y. and Lee, C.Y., 2024. [Model swarms: Collaborative search to adapt LLM experts via swarm intelligence](). arXiv preprint arXiv:2410.11163.
