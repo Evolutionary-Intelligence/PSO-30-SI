@@ -10,6 +10,7 @@ This is one part of [https://evolutionary-intelligence.github.io/](https://evolu
 * Shi Cheng, Shaanxi Normal University, China
 * [Qianlong Dang](https://lxy.nwafu.edu.cn/szdw/4d19c48381ad49e097167e7049563e7e.htm), Northwest A&F University, China
 * [Qiqi Duan](https://scholar.google.com/citations?user=a3BJ54cAAAAJ&hl=en), Harbin Institute of Technology & Southern University of Science and Technology, China
+* [Guoji Fu](https://scholar.google.com/citations?user=a8CLpC0AAAAJ&hl=en), National University of Singapore, Singapore
 * [Jialin Liu](https://scholar.google.com/citations?user=xhytgbIAAAAJ&hl=en), Lingnan University, HK (China)
 * [Yuhui Shi](https://shop.elsevier.com/books/swarm-intelligence/eberhart/978-1-55860-595-4), Southern University of Science and Technology, China
 * [Lijun Sun](https://scholar.google.com/citations?hl=en&user=Q-mGpFUAAAAJ), Shenzhen Technology University, China
