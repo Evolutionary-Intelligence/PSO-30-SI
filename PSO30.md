@@ -34,6 +34,14 @@
 
 ## BibTeX
 
+@inproceedings{2014-CVPR-Qian,
+  title={Realtime and robust hand tracking from depth},
+  author={Qian, Chen and Sun, Xiao and Wei, Yichen and Tang, Xiaoou and Sun, Jian},
+  booktitle={Proceedings of IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={1106--1113},
+  year={2014}
+}
+
 @inproceedings{2015-ICCV-Meyer,
   title={Robust model-based {3D} head pose estimation},
   author={Meyer, Gregory P and Gupta, Shalini and Frosio, Iuri and Reddy, Dikpal and Kautz, Jan},
