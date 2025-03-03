@@ -35,6 +35,14 @@
 
 ## BibTeX
 
+@inproceedings{2011-BMVC-Oikonomidis,
+  title={Efficient model-based 3D tracking of hand articulations using {Kinect}},
+  author={Oikonomidis, Iason and Kyriazis, Nikolaos and Argyros, Antonis},
+  booktitle={Procedings of British Machine Vision Conference},
+  year={2011},
+  organization={British Machine Vision Association}
+}
+
 @inproceedings{2014-CVPR-Qian,
   title={Realtime and robust hand tracking from depth},
   author={Qian, Chen and Sun, Xiao and Wei, Yichen and Tang, Xiaoou and Sun, Jian},
