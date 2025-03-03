@@ -23,7 +23,7 @@
 
 * Weiel, M., Götz, M., Klein, A., Coquelin, D., Floca, R. and Schug, A., 2021. [Dynamic particle swarm optimization of biomolecular simulation parameters with flexible objective functions](). **Nature Machine Intelligence**, 3(8), pp.727-734.
 
-## Graphics
+## Visualization and Computer Graphics
 * Zhao, W., Zhang, J., Min, J. and Chai, J., 2013. [Robust realtime physics-based motion control for human grasping](https://dl.acm.org/doi/pdf/10.1145/2508363.2508412). ACM Transactions on Graphics (TOG), 32(6), 1-12.
 * Tompson, J., Stein, M., Lecun, Y. and Perlin, K., 2014. [Real-time continuous pose recovery of human hands using convolutional networks](https://dl.acm.org/doi/pdf/10.1145/2629500). ACM Transactions on Graphics (ToG), 33(5), 1-10.
 * Peng, Y., Fu, Q., Heide, F. and Heidrich, W., 2016. [The diffractive achromat full spectrum computational imaging with diffractive optics](https://www.cs.ubc.ca/labs/imager/tr/2016/DiffractiveAchromatImaging/DiffractiveAchromat_Peng2016_low-res.pdf). ACM Transactions on Graphics, 35(4), 1-11.
