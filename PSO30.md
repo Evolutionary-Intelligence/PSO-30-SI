@@ -15,6 +15,7 @@
 
 * Meyer, G.P., Gupta, S., Frosio, I., Reddy, D. and Kautz, J., 2015. [Robust model-based 3d head pose estimation](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Meyer_Robust_Model-Based_3D_ICCV_2015_paper.html). In Proceedings of IEEE International Conference on Computer Vision (pp. 3649-3657). [ **CCF-A** ]
   * University of Illinois Urbana-Champaign + NVIDIA
+  * Kautz, J.: Vice President of Learning and Perception Research @ NVIDIA
 * Qian, C., Sun, X., Wei, Y., Tang, X. and Sun, J., 2014. [Realtime and robust hand tracking from depth](https://openaccess.thecvf.com/content_cvpr_2014/html/Qian_Realtime_and_Robust_2014_CVPR_paper.html). In Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (pp. 1106-1113). [ **CCF-A** ]
   * Microsoft Research + Chinese University of Hong Kong
   * Tang, X.: IEEE Fellow
