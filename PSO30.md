@@ -62,6 +62,17 @@
   year={2015}
 }
 
+@article{2018-Lira-TOG,
+  title={Fabricable {Eulerian} wires for 3D shape abstraction},
+  author={Lira, Wallace and Fu, Chi-Wing and Zhang, Hao},
+  journal={ACM Transactions on Graphics},
+  volume={37},
+  number={6},
+  pages={1--13},
+  year={2018},
+  publisher={ACM New York, NY, USA}
+}
+
 @article{2021-NMI-Weiel,
   title={Dynamic particle swarm optimization of biomolecular simulation parameters with flexible objective functions},
   author={Weiel, Marie and G{\"o}tz, Markus and Klein, Andr{\'e} and Coquelin, Daniel and Floca, Ralf and Schug, Alexander},
