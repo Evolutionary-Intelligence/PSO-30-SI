@@ -17,6 +17,7 @@
   * University of Illinois Urbana-Champaign + NVIDIA
 * Qian, C., Sun, X., Wei, Y., Tang, X. and Sun, J., 2014. [Realtime and robust hand tracking from depth](https://openaccess.thecvf.com/content_cvpr_2014/html/Qian_Realtime_and_Robust_2014_CVPR_paper.html). In Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (pp. 1106-1113). [ **CCF-A** ]
   * Microsoft Research + Chinese University of Hong Kong
+* Oikonomidis, I., Kyriazis, N. and Argyros, A.A., 2011. [Efficient model-based 3D tracking of hand articulations using Kinect](https://bmva-archive.org.uk/bmvc/2011/proceedings/paper101/paper101.pdf). In Procedings of British Machine Vision Conference (Vol. 1, No. 2, p.3).
 
 ## Biology
 
