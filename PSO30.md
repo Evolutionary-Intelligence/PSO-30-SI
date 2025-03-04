@@ -35,6 +35,7 @@
 * Peng, Y., Fu, Q., Heide, F. and Heidrich, W., 2016. [The diffractive achromat full spectrum computational imaging with diffractive optics](https://www.cs.ubc.ca/labs/imager/tr/2016/DiffractiveAchromatImaging/DiffractiveAchromat_Peng2016_low-res.pdf). ACM Transactions on Graphics, 35(4), 1-11.
 * Koutaki, G., 2016. [Binary continuous image decomposition for multi-view display](https://dl.acm.org/doi/pdf/10.1145/2897824.2925949). ACM Transactions on Graphics (TOG), 35(4), 1-12.
 * Yang, S., Pan, Z., Amert, T., Wang, K., Yu, L., Berg, T. and Lin, M. C., 2018. [Physics-inspired garment recovery from a single-view image](https://dl.acm.org/doi/pdf/10.1145/3026479). ACM Transactions on Graphics (TOG), 37(5), 1-14.
+  * University of North Carolina at Chapel Hill
 * Lira, W., Fu, C. W. and Zhang, H., 2018. [Fabricable eulerian wires for 3D shape abstraction](https://dl.acm.org/doi/abs/10.1145/3272127.3275049). ACM Transactions on Graphics, 37(6), 1-13. [ **CCF-A** ]
   * Simon Fraser University + Chinese University of Hong Kong
   * Zhang, H.: IEEE Fellow
