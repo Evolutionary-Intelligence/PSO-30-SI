@@ -37,6 +37,7 @@
   * Simon Fraser University + Chinese University of Hong Kong
   * Zhang, H.: IEEE Fellow
 * Zhang, J., Zhu, C., Zheng, L. and Xu, K., 2021.[ROSEFusion: random optimization for online dense reconstruction under fast camera motion](https://dl.acm.org/doi/pdf/10.1145/3450626.3459676). ACM Transactions on Graphics (TOG), 40(4), 1-17.
+  * National University of Defense Technology
 * Cheng, Y., Song, P., Lu, Y., Chew, W. J. J. and Liu, L., 2022. [Exact 3D path generation via 3D cam-linkage mechanisms](https://dl.acm.org/doi/abs/10.1145/3550454.3555431). ACM Transactions on Graphics, 41(6), 1-13.
   * University of Science and Technology of China + Singapore University of Technology and Design
 
