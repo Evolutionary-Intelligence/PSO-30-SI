@@ -11,8 +11,10 @@
 * Feng, S., Wang, Z., Wang, Y., Ebrahimi, S., Palangi, H., Miculicich, L., Kulshrestha, A., Rauschmayr, N., Choi, Y., Tsvetkov, Y. and Lee, C.Y., 2024. [Model swarms: Collaborative search to adapt LLM experts via swarm intelligence](). arXiv preprint arXiv:2410.11163.
 * Feng, S., Wang, Z., Goyal, P., Wang, Y., Shi, W., Xia, H., Palangi, H., Zettlemoyer, L., Tsvetkov, Y., Lee, C.Y. and Pfister, T., 2025. [Heterogeneous Swarms: Jointly optimizing model roles and weights for multi-LLM systems](). arXiv preprint arXiv:2502.04510.
 
-###
+### Vision
 
+* Zhang, J., Zhu, C., Zheng, L. and Xu, K., 2021.[ROSEFusion: random optimization for online dense reconstruction under fast camera motion](https://dl.acm.org/doi/pdf/10.1145/3450626.3459676). ACM Transactions on Graphics (TOG), 40(4), 1-17.
+  * National University of Defense Technology
 * Meyer, G.P., Gupta, S., Frosio, I., Reddy, D. and Kautz, J., 2015. [Robust model-based 3d head pose estimation](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Meyer_Robust_Model-Based_3D_ICCV_2015_paper.html). In Proceedings of IEEE International Conference on Computer Vision (pp. 3649-3657). [ **CCF-A** ]
   * University of Illinois Urbana-Champaign + NVIDIA
   * Kautz, J.: Vice President of Learning and Perception Research @ NVIDIA
@@ -36,8 +38,6 @@
 * Lira, W., Fu, C. W. and Zhang, H., 2018. [Fabricable eulerian wires for 3D shape abstraction](https://dl.acm.org/doi/abs/10.1145/3272127.3275049). ACM Transactions on Graphics, 37(6), 1-13. [ **CCF-A** ]
   * Simon Fraser University + Chinese University of Hong Kong
   * Zhang, H.: IEEE Fellow
-* Zhang, J., Zhu, C., Zheng, L. and Xu, K., 2021.[ROSEFusion: random optimization for online dense reconstruction under fast camera motion](https://dl.acm.org/doi/pdf/10.1145/3450626.3459676). ACM Transactions on Graphics (TOG), 40(4), 1-17.
-  * National University of Defense Technology
 * Cheng, Y., Song, P., Lu, Y., Chew, W. J. J. and Liu, L., 2022. [Exact 3D path generation via 3D cam-linkage mechanisms](https://dl.acm.org/doi/abs/10.1145/3550454.3555431). ACM Transactions on Graphics, 41(6), 1-13.
   * University of Science and Technology of China + Singapore University of Technology and Design
 
