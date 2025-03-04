@@ -19,6 +19,8 @@
 * Qian, C., Sun, X., Wei, Y., Tang, X. and Sun, J., 2014. [Realtime and robust hand tracking from depth](https://openaccess.thecvf.com/content_cvpr_2014/html/Qian_Realtime_and_Robust_2014_CVPR_paper.html). In Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (pp. 1106-1113). [ **CCF-A** ]
   * Microsoft Research + Chinese University of Hong Kong
   * Tang, X.: IEEE Fellow
+* Zhao, W., Zhang, J., Min, J. and Chai, J., 2013. [Robust realtime physics-based motion control for human grasping](https://dl.acm.org/doi/pdf/10.1145/2508363.2508412). ACM Transactions on Graphics, 32(6), 1-12. [ **CCF-A** ]
+  * University of Science and Technology of China + Texas A&M University
 * Oikonomidis, I., Kyriazis, N. and Argyros, A.A., 2011. [Efficient model-based 3D tracking of hand articulations using Kinect](https://bmva-archive.org.uk/bmvc/2011/proceedings/paper101/paper101.pdf). In Procedings of British Machine Vision Conference (Vol. 1, No. 2, p.3).
 
 ## Biology
@@ -27,8 +29,6 @@
 
 ## Visualization and Computer Graphics
 
-* Zhao, W., Zhang, J., Min, J. and Chai, J., 2013. [Robust realtime physics-based motion control for human grasping](https://dl.acm.org/doi/pdf/10.1145/2508363.2508412). ACM Transactions on Graphics, 32(6), 1-12.
-  * University of Science and Technology of China + Texas A&M University
 * Tompson, J., Stein, M., Lecun, Y. and Perlin, K., 2014. [Real-time continuous pose recovery of human hands using convolutional networks](https://dl.acm.org/doi/pdf/10.1145/2629500). ACM Transactions on Graphics (ToG), 33(5), 1-10.
 * Peng, Y., Fu, Q., Heide, F. and Heidrich, W., 2016. [The diffractive achromat full spectrum computational imaging with diffractive optics](https://www.cs.ubc.ca/labs/imager/tr/2016/DiffractiveAchromatImaging/DiffractiveAchromat_Peng2016_low-res.pdf). ACM Transactions on Graphics, 35(4), 1-11.
 * Koutaki, G., 2016. [Binary continuous image decomposition for multi-view display](https://dl.acm.org/doi/pdf/10.1145/2897824.2925949). ACM Transactions on Graphics (TOG), 35(4), 1-12.
@@ -47,6 +47,17 @@
   booktitle={Procedings of British Machine Vision Conference},
   year={2011},
   organization={British Machine Vision Association}
+}
+
+@article{2013-TOG-Zhao,
+  title={Robust realtime physics-based motion control for human grasping},
+  author={Zhao, Wenping and Zhang, Jianjie and Min, Jianyuan and Chai, Jinxiang},
+  journal={ACM Transactions on Graphics},
+  volume={32},
+  number={6},
+  pages={1--12},
+  year={2013},
+  publisher={ACM New York, NY, USA}
 }
 
 @inproceedings{2014-CVPR-Qian,
