@@ -13,7 +13,7 @@
 
 ### Vision
 
-* Zhang, J., Zhu, C., Zheng, L. and Xu, K., 2021.[ROSEFusion: random optimization for online dense reconstruction under fast camera motion](https://dl.acm.org/doi/pdf/10.1145/3450626.3459676). ACM Transactions on Graphics (TOG), 40(4), 1-17.
+* Zhang, J., Zhu, C., Zheng, L. and Xu, K., 2021.[ROSEFusion: random optimization for online dense reconstruction under fast camera motion](https://dl.acm.org/doi/pdf/10.1145/3450626.3459676). ACM Transactions on Graphics, 40(4), 1-17. [ **CCF-A** ]
   * National University of Defense Technology
 * Meyer, G.P., Gupta, S., Frosio, I., Reddy, D. and Kautz, J., 2015. [Robust model-based 3d head pose estimation](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Meyer_Robust_Model-Based_3D_ICCV_2015_paper.html). In Proceedings of IEEE International Conference on Computer Vision (pp. 3649-3657). [ **CCF-A** ]
   * University of Illinois Urbana-Champaign + NVIDIA
