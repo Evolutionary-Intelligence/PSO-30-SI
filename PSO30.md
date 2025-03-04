@@ -100,7 +100,7 @@
 }
 
 @article{2021-TOG-Zhang,
-  title={ROSEFusion: Random optimization for online dense reconstruction under fast camera motion},
+  title={ROSEFusion: {Random} optimization for online dense reconstruction under fast camera motion},
   author={Zhang, Jiazhao and Zhu, Chenyang and Zheng, Lintao and Xu, Kai},
   journal={ACM Transactions on Graphics},
   volume={40},
