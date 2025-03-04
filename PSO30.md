@@ -99,6 +99,17 @@
   publisher={Nature}
 }
 
+@article{2021-TOG-Zhang,
+  title={ROSEFusion: Random optimization for online dense reconstruction under fast camera motion},
+  author={Zhang, Jiazhao and Zhu, Chenyang and Zheng, Lintao and Xu, Kai},
+  journal={ACM Transactions on Graphics},
+  volume={40},
+  number={4},
+  pages={1--17},
+  year={2021},
+  publisher={ACM New York, NY, USA}
+}
+
 @article{2022-TOG-Cheng,
   title={Exact {3D} path generation via {3D} cam-linkage mechanisms},
   author={Cheng, Yingjie and Song, Peng and Lu, Yukun and Chew, Wen Jie Jeremy and Liu, Ligang},
