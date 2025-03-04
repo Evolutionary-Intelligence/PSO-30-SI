@@ -99,6 +99,17 @@
   publisher={Nature}
 }
 
+@article{2022-TOG-Cheng,
+  title={Exact {3D} path generation via {3D} cam-linkage mechanisms},
+  author={Cheng, Yingjie and Song, Peng and Lu, Yukun and Chew, Wen Jie Jeremy and Liu, Ligang},
+  journal={ACM Transactions on Graphics},
+  volume={41},
+  number={6},
+  pages={1--13},
+  year={2022},
+  publisher={ACM New York, NY, USA}
+}
+
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation): A
