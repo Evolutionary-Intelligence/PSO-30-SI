@@ -15,8 +15,8 @@
 
 * Zang, Y., Qi, F., Yang, C., Liu, Z., Zhang, M., Liu, Q. and Sun, M., 2020, July.
   [Word-level textual adversarial attacking as combinatorial optimization](https://aclanthology.org/2020.acl-main.540/).
-  In **Proceedings of Annual Meeting of the Association for Computational Linguistics** (pp. 6066-6080). [ **CCF-A** ]
-  * 
+  In Proceedings of Annual Meeting of the Association for Computational Linguistics (pp. 6066-6080). [ **CCF-A** ]
+  * Tsinghua University + Columbia University + Huawei Noah’s Ark Lab
 
 ### Vision
 
