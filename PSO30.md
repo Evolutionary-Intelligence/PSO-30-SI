@@ -97,8 +97,8 @@
   publisher={ACM New York, NY, USA}
 }
 
-@article{2018-Lira-TOG,
-  title={Fabricable {Eulerian} wires for 3D shape abstraction},
+@article{2018-TOG-Lira,
+  title={Fabricable {Eulerian} wires for {3D} shape abstraction},
   author={Lira, Wallace and Fu, Chi-Wing and Zhang, Hao},
   journal={ACM Transactions on Graphics},
   volume={37},
@@ -106,6 +106,14 @@
   pages={1--13},
   year={2018},
   publisher={ACM New York, NY, USA}
+}
+
+@inproceedings{2020-ACL-Zang,
+  title={Word-level textual adversarial attacking as combinatorial optimization},
+  author={Zang, Yuan and Qi, Fanchao and Yang, Chenghao and Liu, Zhiyuan and Zhang, Meng and Liu, Qun and Sun, Maosong},
+  booktitle={Proceedings of Annual Meeting of Association for Computational Linguistics},
+  pages={6066--6080},
+  year={2020}
 }
 
 @article{2021-NMI-Weiel,
