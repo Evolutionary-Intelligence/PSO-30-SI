@@ -79,6 +79,17 @@
   year={2015}
 }
 
+@article{2016-TOG-Koutaki,
+  title={Binary continuous image decomposition for multi-view display},
+  author={Koutaki, Gou},
+  journal={ACM Transactions on Graphics},
+  volume={35},
+  number={4},
+  pages={1--12},
+  year={2016},
+  publisher={ACM New York, NY, USA}
+}
+
 @article{2018-Lira-TOG,
   title={Fabricable {Eulerian} wires for 3D shape abstraction},
   author={Lira, Wallace and Fu, Chi-Wing and Zhang, Hao},
