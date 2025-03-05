@@ -11,6 +11,13 @@
 * Feng, S., Wang, Z., Wang, Y., Ebrahimi, S., Palangi, H., Miculicich, L., Kulshrestha, A., Rauschmayr, N., Choi, Y., Tsvetkov, Y. and Lee, C.Y., 2024. [Model swarms: Collaborative search to adapt LLM experts via swarm intelligence](). arXiv preprint arXiv:2410.11163.
 * Feng, S., Wang, Z., Goyal, P., Wang, Y., Shi, W., Xia, H., Palangi, H., Zettlemoyer, L., Tsvetkov, Y., Lee, C.Y. and Pfister, T., 2025. [Heterogeneous Swarms: Jointly optimizing model roles and weights for multi-LLM systems](). arXiv preprint arXiv:2502.04510.
 
+### NLP
+
+* Zang, Y., Qi, F., Yang, C., Liu, Z., Zhang, M., Liu, Q. and Sun, M., 2020, July.
+  [Word-level textual adversarial attacking as combinatorial optimization](https://aclanthology.org/2020.acl-main.540/).
+  In **Proceedings of Annual Meeting of the Association for Computational Linguistics** (pp. 6066-6080). [ **CCF-A** ]
+  * 
+
 ### Vision
 
 * Zhang, J., Zhu, C., Zheng, L. and Xu, K., 2021.[ROSEFusion: random optimization for online dense reconstruction under fast camera motion](https://dl.acm.org/doi/pdf/10.1145/3450626.3459676). ACM Transactions on Graphics, 40(4), 1-17. [ **CCF-A** ]
