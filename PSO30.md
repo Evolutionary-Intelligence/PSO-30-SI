@@ -38,7 +38,9 @@
 
 ## E
 
-* Wu, S., Yan, W., Wang, X., Xiao, Q., Wang, Z., Sun, J., Yu, X., Yang, Y., Zhu, Q., Yang, G. and Yao, Z., 2025. A μGal MOEMS gravimeter designed with free-form anti-springs. Nature Communications, 16(1), p.1786.
+* Wu, S., Yan, W., Wang, X., Xiao, Q., Wang, Z., Sun, J., Yu, X., Yang, Y., Zhu, Q., Yang, G. and Yao, Z., 2025.
+  [A μGal MOEMS gravimeter designed with free-form anti-springs](https://www.nature.com/articles/s41467-025-57176-z).
+  Nature Communications, 16(1), p.1786.
 
 ## Visualization and Computer Graphics
 
