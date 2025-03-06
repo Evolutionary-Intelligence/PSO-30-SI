@@ -174,7 +174,7 @@
 }
 
 @article{2025-NC-Crespo-Miguel,
-  title={In-silico platform for the multifunctional design of 3D printed conductive components},
+  title={In-silico platform for the multifunctional design of {3D} printed conductive components},
   author={Crespo-Miguel, Javier and Lucarini, Sergio and Garzon-Hernandez, Sara and Arias, Angel and Mart{\'\i}nez-Pa{\~n}eda, Emilio and Garcia-Gonzalez, Daniel},
   journal={Nature Communications},
   volume={16},
