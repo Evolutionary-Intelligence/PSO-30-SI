@@ -1,5 +1,13 @@
 #
 
+## Software
+
+### Open-Source
+
+* Lange, R.T., 2023, July.
+  Evosax: Jax-based evolution strategies.
+  In Proceedings of Companion Conference on Genetic and Evolutionary Computation (pp. 659-662). ACM.
+
 ## Aeronautics&Astronautics
 
 * Venter, G. and Sobieszczanski-Sobieski, J., 2003. [Particle swarm optimization](). **AIAA Journal**, 41(8), pp.1583-1589.
