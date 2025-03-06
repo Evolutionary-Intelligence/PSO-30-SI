@@ -158,6 +158,17 @@
   publisher={ACM New York, NY, USA}
 }
 
+@article{2025-NC-Wu,
+  title={A $\mu${Gal} {MOEMS} gravimeter designed with free-form anti-springs},
+  author={Wu, Shuang and Yan, Wenhui and Wang, Xiaoxu and Xiao, Qingxiong and Wang, Zhenshan and Sun, Jiaxin and Yu, Xinlong and Yang, Yaoxian and Zhu, Qixuan and Yang, Guantai and others},
+  journal={Nature Communications},
+  volume={16},
+  number={1},
+  pages={1786},
+  year={2025},
+  publisher={Nature}
+}
+
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation): A
