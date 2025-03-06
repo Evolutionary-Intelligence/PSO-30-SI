@@ -173,6 +173,17 @@
   publisher={Nature}
 }
 
+@article{2025-NC-Crespo-Miguel,
+  title={In-silico platform for the multifunctional design of 3D printed conductive components},
+  author={Crespo-Miguel, Javier and Lucarini, Sergio and Garzon-Hernandez, Sara and Arias, Angel and Mart{\'\i}nez-Pa{\~n}eda, Emilio and Garcia-Gonzalez, Daniel},
+  journal={Nature Communications},
+  volume={16},
+  number={1},
+  pages={1359},
+  year={2025},
+  publisher={Nature}
+}
+
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation): A
