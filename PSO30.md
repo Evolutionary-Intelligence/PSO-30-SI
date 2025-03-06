@@ -36,6 +36,10 @@
 
 * Weiel, M., Götz, M., Klein, A., Coquelin, D., Floca, R. and Schug, A., 2021. [Dynamic particle swarm optimization of biomolecular simulation parameters with flexible objective functions](). **Nature Machine Intelligence**, 3(8), pp.727-734.
 
+## E
+
+* Wu, S., Yan, W., Wang, X., Xiao, Q., Wang, Z., Sun, J., Yu, X., Yang, Y., Zhu, Q., Yang, G. and Yao, Z., 2025. A μGal MOEMS gravimeter designed with free-form anti-springs. Nature Communications, 16(1), p.1786.
+
 ## Visualization and Computer Graphics
 
 * Tompson, J., Stein, M., Lecun, Y. and Perlin, K., 2014. [Real-time continuous pose recovery of human hands using convolutional networks](https://dl.acm.org/doi/pdf/10.1145/2629500). ACM Transactions on Graphics (ToG), 33(5), 1-10.
