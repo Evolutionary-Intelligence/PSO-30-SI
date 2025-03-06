@@ -43,7 +43,7 @@
   Nature Communications, 16(1), p.1786.
   * Wei Huang: Academician of the Chinese Academy of Sciences
 * Crespo-Miguel, J., Lucarini, S., Garzon-Hernandez, S., Arias, A., Martínez-Pañeda, E. and Garcia-Gonzalez, D., 2025.
-  In-silico platform for the multifunctional design of 3D printed conductive components.
+  [In-silico platform for the multifunctional design of 3D printed conductive components](https://www.nature.com/articles/s41467-025-56707-y).
   Nature Communications, 16(1), p.1359.
 
 ## Visualization and Computer Graphics
