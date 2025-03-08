@@ -72,6 +72,10 @@
 
 Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-varying perturbation for balancing privacy and utility in federated learning. IEEE Transactions on Information Forensics and Security, 18, pp.1884-1897.
 
+## Variants
+
+* Yang, Q., Song, G.W., Chen, W.N., Jia, Y.H., Gao, X.D., Lu, Z.Y., Jeon, S.W. and Zhang, J., 2024. Random contrastive interaction for particle swarm optimization in high-dimensional environment. IEEE Transactions on Evolutionary Computation, 28(4), pp.933-949.
+
 ## BibTeX
 
 @inproceedings{2011-BMVC-Oikonomidis,
