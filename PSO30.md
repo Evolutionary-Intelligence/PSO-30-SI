@@ -56,6 +56,7 @@
 * Crespo-Miguel, J., Lucarini, S., Garzon-Hernandez, S., Arias, A., Martínez-Pañeda, E. and Garcia-Gonzalez, D., 2025.
   [In-silico platform for the multifunctional design of 3D printed conductive components](https://www.nature.com/articles/s41467-025-56707-y).
   Nature Communications, 16(1), p.1359.
+  * University Carlos III of Madrid + Basque Center for Materials, Applications and Nanostructures + Basque Foundation for Science + Imperial College of London + University of Oxford
 
 ## Visualization and Computer Graphics
 
