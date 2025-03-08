@@ -4,6 +4,9 @@
 
 ### Open-Source
 
+* Ma, Z., Guo, H., Chen, J., Li, Z., Peng, G., Gong, Y.J., Ma, Y. and Cao, Z., 2023.
+  Metabox: A benchmark platform for meta-black-box optimization with reinforcement learning.
+  Advances in Neural Information Processing Systems, 36, pp.10775-10795.
 * Lange, R.T., 2023, July.
   Evosax: Jax-based evolution strategies.
   In Proceedings of Companion Conference on Genetic and Evolutionary Computation (pp. 659-662). ACM.
