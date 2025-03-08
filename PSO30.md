@@ -70,6 +70,8 @@
 * Yang, S. and Lin, M. C., 2015. [Materialcloning: Acquiring elasticity parameters from images for medical applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7346514). IEEE transactions on visualization and computer graphics, 22(9), 2122-2135.
 * Tian, H., Wang, C., Manocha, D. and Zhang, X., 2018. [Realtime hand-object interaction using learned grasp space for virtual environments](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8392385). IEEE Transactions on Visualization and Computer Graphics, 25(8), 2623-2635.
 
+Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-varying perturbation for balancing privacy and utility in federated learning. IEEE Transactions on Information Forensics and Security, 18, pp.1884-1897.
+
 ## BibTeX
 
 @inproceedings{2011-BMVC-Oikonomidis,
