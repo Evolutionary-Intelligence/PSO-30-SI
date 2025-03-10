@@ -22,6 +22,12 @@
 * Feng, S., Wang, Z., Wang, Y., Ebrahimi, S., Palangi, H., Miculicich, L., Kulshrestha, A., Rauschmayr, N., Choi, Y., Tsvetkov, Y. and Lee, C.Y., 2024. [Model swarms: Collaborative search to adapt LLM experts via swarm intelligence](). arXiv preprint arXiv:2410.11163.
 * Feng, S., Wang, Z., Goyal, P., Wang, Y., Shi, W., Xia, H., Palangi, H., Zettlemoyer, L., Tsvetkov, Y., Lee, C.Y. and Pfister, T., 2025. [Heterogeneous Swarms: Jointly optimizing model roles and weights for multi-LLM systems](). arXiv preprint arXiv:2502.04510.
 
+### Multi-Agent Systems
+
+* Kwa, H.L., Kit, J.L. and Bouffanais, R., 2020, May.
+  Optimal swarm strategy for dynamic target search and tracking.
+  In Proceedings of International Conference on Autonomous Agents and Multi-Agent Systems (pp. 672-680).
+
 ### NLP
 
 * Zang, Y., Qi, F., Yang, C., Liu, Z., Zhang, M., Liu, Q. and Sun, M., 2020, July.
@@ -83,7 +89,6 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
 
 ## AAMAS
 
-* Kwa, H.L., Kit, J.L. and Bouffanais, R., 2020, May. Optimal swarm strategy for dynamic target search and tracking. In Proceedings of the 19th International Conference on Autonomous Agents and MultiAgent Systems (pp. 672-680).
 * Saikia, H., Yang, F. and Peters, C., 2019, May. Priority Driven Local Optimization for Crowd Simulation. In Proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems (pp. 2180-2182).
 * Bell, N. and Oommen, B.J., 2017. A novel abstraction for swarm intelligence: particle field optimization. Autonomous Agents and Multi-Agent Systems, 31(2), pp.362-385.
 * Bell, N. and Oommen, B.J., 2015, May. Particle Field Optimization: A New Paradigm for Swarm Intelligence. In Proceedings of the 2015 International Conference on Autonomous Agents and Multiagent Systems (pp. 257-265).
