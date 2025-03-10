@@ -119,6 +119,17 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
   publisher={ACM New York, NY, USA}
 }
 
+@article{2014-TOG-Tompson,
+  title={Real-time continuous pose recovery of human hands using convolutional networks},
+  author={Tompson, Jonathan and Stein, Murphy and Lecun, Yann and Perlin, Ken},
+  journal={ACM Transactions on Graphics},
+  volume={33},
+  number={5},
+  pages={1--10},
+  year={2014},
+  publisher={ACM New York, NY, USA}
+}
+
 @inproceedings{2014-CVPR-Qian,
   title={Realtime and robust hand tracking from depth},
   author={Qian, Chen and Sun, Xiao and Wei, Yichen and Tang, Xiaoou and Sun, Jian},
