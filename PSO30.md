@@ -151,6 +151,17 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
   publisher={ACM New York, NY, USA}
 }
 
+@article{2018-TVCG-Tian,
+  title={Realtime hand-object interaction using learned grasp space for virtual environments},
+  author={Tian, Hao and Wang, Changbo and Manocha, Dinesh and Zhang, Xinyu},
+  journal={IEEE Transactions on Visualization and Computer Graphics},
+  volume={25},
+  number={8},
+  pages={2623--2635},
+  year={2018},
+  publisher={IEEE}
+}
+
 @inproceedings{2020-ACL-Zang,
   title={Word-level textual adversarial attacking as combinatorial optimization},
   author={Zang, Yuan and Qi, Fanchao and Yang, Chenghao and Liu, Zhiyuan and Zhang, Meng and Liu, Qun and Sun, Maosong},
