@@ -80,6 +80,15 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
 
 * Yang, Q., Song, G.W., Chen, W.N., Jia, Y.H., Gao, X.D., Lu, Z.Y., Jeon, S.W. and Zhang, J., 2024. Random contrastive interaction for particle swarm optimization in high-dimensional environment. IEEE Transactions on Evolutionary Computation, 28(4), pp.933-949.
 
+## PSO
+
+* Kwa, H.L., Kit, J.L. and Bouffanais, R., 2020, May. Optimal swarm strategy for dynamic target search and tracking. In Proceedings of the 19th International Conference on Autonomous Agents and MultiAgent Systems (pp. 672-680).
+* Saikia, H., Yang, F. and Peters, C., 2019, May. Priority Driven Local Optimization for Crowd Simulation. In Proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems (pp. 2180-2182).
+* Bell, N. and Oommen, B.J., 2015, May. Particle Field Optimization: A New Paradigm for Swarm Intelligence. In Proceedings of the 2015 International Conference on Autonomous Agents and Multiagent Systems (pp. 257-265).
+* Lin, C.F. and Hu, S.L., 2007, May. Multi-task overlapping coalition parallel formation algorithm. In Proceedings of the 6th international joint conference on Autonomous agents and multiagent systems (pp. 1-3).
+* Pugh, J. and Martinoli, A., 2006, May. Multi-robot learning with particle swarm optimization. In Proceedings of the fifth international joint conference on Autonomous agents and multiagent systems (pp. 441-448).
+
+
 ## BibTeX
 
 @inproceedings{2011-BMVC-Oikonomidis,
