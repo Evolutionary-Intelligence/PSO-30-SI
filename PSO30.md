@@ -48,6 +48,7 @@
   * Microsoft Research + Chinese University of Hong Kong
   * Tang, X.: IEEE Fellow
 * Tompson, J., Stein, M., Lecun, Y. and Perlin, K., 2014. [Real-time continuous pose recovery of human hands using convolutional networks](https://dl.acm.org/doi/abs/10.1145/2629500). ACM Transactions on Graphics (ToG), 33(5), 1-10. [ **CCF-A** ]
+  * New York University
 * Zhao, W., Zhang, J., Min, J. and Chai, J., 2013. [Robust realtime physics-based motion control for human grasping](https://dl.acm.org/doi/abs/10.1145/2508363.2508412). ACM Transactions on Graphics, 32(6), 1-12. [ **CCF-A** ]
   * University of Science and Technology of China + Texas A&M University
 * Oikonomidis, I., Kyriazis, N. and Argyros, A.A., 2011. [Efficient model-based 3D tracking of hand articulations using Kinect](https://bmva-archive.org.uk/bmvc/2011/proceedings/paper101/paper101.pdf). In Procedings of British Machine Vision Conference (Vol. 1, No. 2, p.3).
