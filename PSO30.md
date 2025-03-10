@@ -37,7 +37,7 @@
 
 ### Vision
 
-* Zhang, J., Zhu, C., Zheng, L. and Xu, K., 2021.[ROSEFusion: random optimization for online dense reconstruction under fast camera motion](https://dl.acm.org/doi/pdf/10.1145/3450626.3459676). ACM Transactions on Graphics, 40(4), 1-17. [ **CCF-A** ]
+* Zhang, J., Zhu, C., Zheng, L. and Xu, K., 2021.[ROSEFusion: Random optimization for online dense reconstruction under fast camera motion](https://dl.acm.org/doi/abs/10.1145/3450626.3459676). ACM Transactions on Graphics, 40(4), 1-17. [ **CCF-A** ]
   * National University of Defense Technology
 * Tian, H., Wang, C., Manocha, D. and Zhang, X., 2018. [Realtime hand-object interaction using learned grasp space for virtual environments](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8392385). IEEE Transactions on Visualization and Computer Graphics, 25(8), 2623-2635.
   * Manocha, D.: AAAI/AAAS/ACM/IEEE Fellow
@@ -47,7 +47,8 @@
 * Qian, C., Sun, X., Wei, Y., Tang, X. and Sun, J., 2014. [Realtime and robust hand tracking from depth](https://openaccess.thecvf.com/content_cvpr_2014/html/Qian_Realtime_and_Robust_2014_CVPR_paper.html). In Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (pp. 1106-1113). [ **CCF-A** ]
   * Microsoft Research + Chinese University of Hong Kong
   * Tang, X.: IEEE Fellow
-* Zhao, W., Zhang, J., Min, J. and Chai, J., 2013. [Robust realtime physics-based motion control for human grasping](https://dl.acm.org/doi/pdf/10.1145/2508363.2508412). ACM Transactions on Graphics, 32(6), 1-12. [ **CCF-A** ]
+* Tompson, J., Stein, M., Lecun, Y. and Perlin, K., 2014. [Real-time continuous pose recovery of human hands using convolutional networks](https://dl.acm.org/doi/abs/10.1145/2629500). ACM Transactions on Graphics (ToG), 33(5), 1-10.
+* Zhao, W., Zhang, J., Min, J. and Chai, J., 2013. [Robust realtime physics-based motion control for human grasping](https://dl.acm.org/doi/abs/10.1145/2508363.2508412). ACM Transactions on Graphics, 32(6), 1-12. [ **CCF-A** ]
   * University of Science and Technology of China + Texas A&M University
 * Oikonomidis, I., Kyriazis, N. and Argyros, A.A., 2011. [Efficient model-based 3D tracking of hand articulations using Kinect](https://bmva-archive.org.uk/bmvc/2011/proceedings/paper101/paper101.pdf). In Procedings of British Machine Vision Conference (Vol. 1, No. 2, p.3).
 
@@ -68,7 +69,6 @@
 
 ## Visualization and Computer Graphics
 
-* Tompson, J., Stein, M., Lecun, Y. and Perlin, K., 2014. [Real-time continuous pose recovery of human hands using convolutional networks](https://dl.acm.org/doi/pdf/10.1145/2629500). ACM Transactions on Graphics (ToG), 33(5), 1-10.
 * Peng, Y., Fu, Q., Heide, F. and Heidrich, W., 2016. [The diffractive achromat full spectrum computational imaging with diffractive optics](https://www.cs.ubc.ca/labs/imager/tr/2016/DiffractiveAchromatImaging/DiffractiveAchromat_Peng2016_low-res.pdf). ACM Transactions on Graphics, 35(4), 1-11.
 * Koutaki, G., 2016. [Binary continuous image decomposition for multi-view display](https://dl.acm.org/doi/pdf/10.1145/2897824.2925949). ACM Transactions on Graphics (TOG), 35(4), 1-12.
 * Yang, S., Pan, Z., Amert, T., Wang, K., Yu, L., Berg, T. and Lin, M. C., 2018. [Physics-inspired garment recovery from a single-view image](https://dl.acm.org/doi/pdf/10.1145/3026479). ACM Transactions on Graphics (TOG), 37(5), 1-14.
