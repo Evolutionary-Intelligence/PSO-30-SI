@@ -115,7 +115,7 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
 ##
 
 * Martí, R., Sevaux, M. and Sörensen, K., 2024.
-  50 years of metaheuristics.
+  [50 years of metaheuristics](https://www.sciencedirect.com/science/article/pii/S0377221724002637).
   European Journal of Operational Research.
 
 ## BibTeX
