@@ -112,6 +112,11 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
 * Li, Y. and Xu, Q., 2008, May. Optimum design and development of an XY flexure micromanipulator for micro scale positioning. In 2008 IEEE International Conference on Robotics and Automation (pp. 3112-3117). IEEE.
 * Yamada, Y., 2006, May. Dynamic reconfiguration of reconfigurable manufacturing systems using particle swarm optimization. In Proceedings 2006 IEEE International Conference on Robotics and Automation, 2006. ICRA 2006. (pp. 1444-1449). IEEE.
 
+##
+
+* Martí, R., Sevaux, M. and Sörensen, K., 2024.
+  50 years of metaheuristics.
+  European Journal of Operational Research.
 
 ## BibTeX
 
