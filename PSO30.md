@@ -26,7 +26,10 @@
 
 * Wang, D., Wang, J., Liu, D. and Qiao, J., 2025.
   [General multi-step value iteration for optimal learning control](https://www.sciencedirect.com/science/article/pii/S0005109825000597).
-  Automatica, 175, p.112168.
+  **Automatica**, 175, p.112168.
+* Melis, J.M., Siwanowicz, I. and Dickinson, M.H., 2024.
+  [Machine learning reveals the control mechanics of an insect wing hinge](https://www.nature.com/articles/s41586-024-07293-4).
+  **Nature**, pp.1-9.
 
 ### Multi-Agent Systems
 
