@@ -26,7 +26,7 @@
 
 * Bottrell, C., Yesuf, H.M., Popping, G., Omori, K.C., Tang, S., Ding, X., Pillepich, A., Nelson, D., Eisert, L., Gao, H. and Goulding, A.D., 2024.
   IllustrisTNG in the HSC-SSP: Image data release and the major role of mini mergers as drivers of asymmetry and star formation.
-  Monthly Notices of the Royal Astronomical Society, 527(3), pp.6506-6539.
+  **Monthly Notices of the Royal Astronomical Society**, 527(3), pp.6506-6539.
   [University of Tokyo + University of Western Australia + Peking University + European Southern Observatory + Nagoya University +
   Max-Planck-Institut fur Astronomie + Universitat Heidelberg + University of Hawaii + Princeton University +
   Deep Space Exploration Laboratory + University of Science and Technology of China] + [2024-MNRAS-Bottrell]
