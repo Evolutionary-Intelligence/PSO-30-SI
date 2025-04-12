@@ -61,9 +61,10 @@
 ### Vision
 
 * Zhang, Q., Wang, C., Siarohin, A., Zhuang, P., Xu, Y., Yang, C., Lin, D., Zhou, B., Tulyakov, S. and Lee, H.Y., 2024.
-  Towards text-guided 3d scene composition.
+  Towards text-guided {3D} scene composition.
   In Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 6829-6838).
 
+  * https://github.com/zqh0253/SceneWiz3D
 * Zhang, J., Zhu, C., Zheng, L. and Xu, K., 2021. [ROSEFusion: Random optimization for online dense reconstruction under fast camera motion](https://dl.acm.org/doi/abs/10.1145/3450626.3459676). ACM Transactions on Graphics, 40(4), 1-17. [ **CCF-A** ]
   * National University of Defense Technology
 * Tian, H., Wang, C., Manocha, D. and Zhang, X., 2018. [Realtime hand-object interaction using learned grasp space for virtual environments](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8392385). IEEE Transactions on Visualization and Computer Graphics, 25(8), 2623-2635. [ **CCF-A** ]
