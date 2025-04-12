@@ -30,6 +30,7 @@
 * Melis, J.M., Siwanowicz, I. and Dickinson, M.H., 2024.
   [Machine learning reveals the control mechanics of an insect wing hinge](https://www.nature.com/articles/s41586-024-07293-4).
   **Nature**, pp.1-9.
+  * "The cost function not continuous"
 
 ### Multi-Agent Systems
 
