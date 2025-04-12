@@ -61,7 +61,7 @@
 ### Vision
 
 * Zhang, Q., Wang, C., Siarohin, A., Zhuang, P., Xu, Y., Yang, C., Lin, D., Zhou, B., Tulyakov, S. and Lee, H.Y., 2024.
-  Towards text-guided {3D} scene composition.
+  [Towards text-guided 3D scene composition](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Towards_Text-guided_3D_Scene_Composition_CVPR_2024_paper.html).
   In Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 6829-6838).
 
   * https://zqh0253.github.io/SceneWiz3D/
