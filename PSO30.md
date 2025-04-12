@@ -267,6 +267,14 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
   publisher={ACM New York, NY, USA}
 }
 
+@inproceedings{2024-CVPR-Zhang,
+  title={Towards text-guided {3D} scene composition},
+  author={Zhang, Qihang and Wang, Chaoyang and Siarohin, Aliaksandr and others},
+  booktitle={Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={6829--6838},
+  year={2024}
+}
+
 @article{2024-MNRAS-Bottrell,
   title={{IllustrisTNG} in the {HSC-SSP}: Image data release and the major role of mini mergers as drivers of asymmetry and star formation},
   author={Bottrell, Connor and Yesuf, Hassen M and Popping, Gerg{\"o} and others},
