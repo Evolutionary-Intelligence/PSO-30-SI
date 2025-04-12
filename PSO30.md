@@ -29,7 +29,7 @@
   **Automatica**, 175, p.112168.
 * Melis, J.M., Siwanowicz, I. and Dickinson, M.H., 2024.
   [Machine learning reveals the control mechanics of an insect wing hinge](https://www.nature.com/articles/s41586-024-07293-4).
-  **Nature**, pp.1-9.
+  **Nature**, pp.1-9. [California Institute of Technology + Howard Hughes Medical Institute]
   * "The cost function not continuous"
   * Parallel PSO (Coordinate-Worker)
 
