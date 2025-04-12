@@ -32,6 +32,12 @@
   Deep Space Exploration Laboratory + University of Science and Technology of China] + [2024-MNRAS-Bottrell]
   * PSO + MCMC
 
+## 
+
+* Zheng, T., Hu, J., Tan, R., Zhang, Y., He, Y. and Luo, J., 2024.
+  π-Jack: Physical-world adversarial attack on monocular depth estimation with perspective hijacking.
+  In **USENIX Security Symposium** (pp. 7321-7338).
+
 ## Control
 
 * Wang, D., Wang, J., Liu, D. and Qiao, J., 2025.
