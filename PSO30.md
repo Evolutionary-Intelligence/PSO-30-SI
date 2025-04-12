@@ -29,7 +29,7 @@
   Monthly Notices of the Royal Astronomical Society, 527(3), pp.6506-6539.
   [University of Tokyo + University of Western Australia + Peking University + European Southern Observatory + Nagoya University +
   Max-Planck-Institut fur Astronomie + Universitat Heidelberg + University of Hawaii + Princeton University +
-  Deep Space Exploration Laboratory + University of Science and Technology of China]
+  Deep Space Exploration Laboratory + University of Science and Technology of China] + [2024-MNRAS-Bottrell]
   * PSO + MCMC
 
 ## Control
@@ -261,6 +261,17 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
   pages={1--13},
   year={2022},
   publisher={ACM New York, NY, USA}
+}
+
+@article{2024-MNRAS-Bottrell,
+  title={{IllustrisTNG} in the {HSC-SSP}: Image data release and the major role of mini mergers as drivers of asymmetry and star formation},
+  author={Bottrell, Connor and Yesuf, Hassen M and Popping, Gerg{\"o} and others},
+  journal={Monthly Notices of the Royal Astronomical Society},
+  volume={527},
+  number={3},
+  pages={6506--6539},
+  year={2024},
+  publisher={Oxford University Press}
 }
 
 @article{2025-NC-Wu,
