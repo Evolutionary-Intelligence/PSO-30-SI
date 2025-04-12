@@ -64,6 +64,7 @@
   Towards text-guided {3D} scene composition.
   In Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 6829-6838).
 
+  * https://zqh0253.github.io/SceneWiz3D/
   * https://github.com/zqh0253/SceneWiz3D
 * Zhang, J., Zhu, C., Zheng, L. and Xu, K., 2021. [ROSEFusion: Random optimization for online dense reconstruction under fast camera motion](https://dl.acm.org/doi/abs/10.1145/3450626.3459676). ACM Transactions on Graphics, 40(4), 1-17. [ **CCF-A** ]
   * National University of Defense Technology
