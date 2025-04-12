@@ -30,6 +30,7 @@
   [University of Tokyo + University of Western Australia + Peking University + European Southern Observatory + Nagoya University +
   Max-Planck-Institut fur Astronomie + Universitat Heidelberg + University of Hawaii + Princeton University +
   Deep Space Exploration Laboratory + University of Science and Technology of China]
+  * PSO + MCMC
 
 ## Control
 
