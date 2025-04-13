@@ -37,6 +37,9 @@
 * Zheng, T., Hu, J., Tan, R., Zhang, Y., He, Y. and Luo, J., 2024.
   [π-Jack: Physical-world adversarial attack on monocular depth estimation with perspective hijacking](https://www.usenix.org/conference/usenixsecurity24/presentation/zheng).
   In **USENIX Security Symposium** (pp. 7321-7338). USENIX.
+  [Southern University of Science and Technology + Nanyang Technological University]
+
+  * https://github.com/pi-Jack/pi-Jack
 
 ## Control
 
