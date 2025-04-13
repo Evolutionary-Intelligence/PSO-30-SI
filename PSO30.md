@@ -295,6 +295,16 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
   publisher={Oxford University Press}
 }
 
+@inproceedings{2024-USS-Zheng,
+  author={Tianyue Zheng and Jingzhi Hu and Rui Tan and others},
+  title={{π-Jack}: {Physical-World} adversarial attack on monocular depth estimation with perspective hijacking},
+  booktitle={USENIX Security Symposium},
+  year={2024},
+  address={Philadelphia},
+  pages={7321--7338},
+  publisher={USENIX Association}
+}
+
 @article{2025-NC-Wu,
   title={A $\mu${Gal} {MOEMS} gravimeter designed with free-form anti-springs},
   author={Wu, Shuang and Yan, Wenhui and Wang, Xiaoxu and Xiao, Qingxiong and Wang, Zhenshan and Sun, Jiaxin and Yu, Xinlong and Yang, Yaoxian and Zhu, Qixuan and Yang, Guantai and others},
