@@ -311,6 +311,16 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
   year={2024}
 }
 
+@article{2024-JMLR-Carrillo,
+  title={FedCBO: Reaching group consensus in clustered federated learning through consensus-based optimization},
+  author={Carrillo, Jos{\'e} A and Trillos, Nicolas Garcia and Li, Sixu and Zhu, Yuhua},
+  journal={Journal of Machine Learning Research},
+  volume={25},
+  number={214},
+  pages={1--51},
+  year={2024}
+}
+
 @article{2024-MNRAS-Bottrell,
   title={{IllustrisTNG} in the {HSC-SSP}: Image data release and the major role of mini mergers as drivers of asymmetry and star formation},
   author={Bottrell, Connor and Yesuf, Hassen M and Popping, Gerg{\"o} and others},
