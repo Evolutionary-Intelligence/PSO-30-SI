@@ -151,7 +151,7 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
 * Fornasier, M., Klock, T. and Riedl, K., 2024.
   [Consensus-based optimization methods converge globally](https://epubs.siam.org/doi/abs/10.1137/22M1527805).
   SIAM Journal on Optimization, 34(3), pp.2973-3004.
-  [Technical University of Munich + Simula Research Laboratory]
+  [Technical University of Munich + Munich Center for Machine Learning + Simula Research Laboratory]
 * Borghi, G., Herty, M. and Pareschi, L., 2023.
   [Constrained consensus-based optimization]().
   SIAM Journal on Optimization, 33(1), pp.211-236.
