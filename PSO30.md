@@ -133,6 +133,8 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
 * Carrillo, J.A., Trillos, N.G., Li, S. and Zhu, Y., 2024.
   [FedCBO: Reaching group consensus in clustered federated learning through consensus-based optimization](https://www.jmlr.org/papers/v25/23-0764.html).
   Journal of Machine Learning Research, 25(214), pp.1-51.
+
+  * https://github.com/SixuLi/FedCBO
 * Bungert, L., Roith, T. and Wacker, P., 2024.
   [Polarized consensus-based dynamics for optimization and sampling](https://link.springer.com/article/10.1007/s10107-024-02095-y).
   Mathematical Programming, pp.1-31.
@@ -145,6 +147,9 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
 * Borghi, G., Herty, M. and Pareschi, L., 2023.
   [Constrained consensus-based optimization]().
   SIAM Journal on Optimization, 33(1), pp.211-236.
+* Fornasier, M., Pareschi, L., Huang, H. and Sünnen, P., 2021.
+  [Consensus-based optimization on the sphere: Convergence to global minimizers and machine learning]().
+  Journal of Machine Learning Research, 22(237), pp.1-55.
 
 ## AAMAS
 
