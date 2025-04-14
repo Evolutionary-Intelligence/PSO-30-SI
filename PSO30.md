@@ -133,6 +133,7 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
 * Carrillo, J.A., Trillos, N.G., Li, S. and Zhu, Y., 2024.
   [FedCBO: Reaching group consensus in clustered federated learning through consensus-based optimization](https://www.jmlr.org/papers/v25/23-0764.html).
   Journal of Machine Learning Research, 25(214), pp.1-51.
+  [University of Oxford + University of Wisconsin-Madison + University of California, Los Angeles]
 
   * https://github.com/SixuLi/FedCBO
 * Bungert, L., Roith, T. and Wacker, P., 2024.
