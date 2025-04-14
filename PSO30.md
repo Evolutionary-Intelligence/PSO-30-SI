@@ -188,6 +188,36 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
   [50 years of metaheuristics](https://www.sciencedirect.com/science/article/pii/S0377221724002637).
   European Journal of Operational Research.
 
+## IROS
+
+* Shin, Y., Kim, H. and Kim, J., 2024, October. AnytimeFusion: Parameter-free RGB Camera-Radar Sensor Fusion Algorithm in Complex Maritime Situations. In 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 12493-12500). IEEE.
+* Zhou, X., Xu, C. and Gao, F., 2022, October. Automatic parameter adaptation for quadrotor trajectory planning. In 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 3348-3355). IEEE.
+* Liu, H., Zhang, J. and Zhou, M., 2022, October. Particle Swarm Optimizer-based Attack Strategy with Swarm Robots. In 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 7304-7309). IEEE.
+* Ebert, J.T., Berlinger, F., Haghighat, B. and Nagpal, R., 2022, October. A hybrid PSO algorithm for multi-robot target search and decision awareness. In 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 11520-11527). IEEE.
+* Tehrani, N.D., Krzywosz, A., Cherepinsky, I. and Carlson, S., 2022, October. Multi-objective task allocation for multi-agent systems using hierarchical cost function. In 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 12045-12050). IEEE.
+* Duisterhof, B.P., Li, S., Burgués, J., Reddi, V.J. and De Croon, G.C., 2021, September. Sniffy bug: A fully autonomous swarm of gas-seeking nano quadcopters in cluttered environments. In 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 9099-9106). IEEE.
+* Hoang, V.T., Phung, M.D., Dinh, T.H. and Ha, Q.P., 2018, October. Angle-encoded swarm optimization for uav formation path planning. In 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 5239-5244). IEEE.
+* Yang, L., Zhang, Y., Vong, C.I. and Zhang, L., 2018, October. Automated control of multifunctional magnetic spores using fluorescence imaging for microrobotic cargo delivery. In 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 1-6). IEEE.
+* Jiang, Z., Sun, Y., Zhao, S., Hu, Y. and Zhang, J., 2017, September. A model of vertebral motion and key point recognition of drilling with force in robot-assisted spinal surgery. In 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 6455-6462). IEEE.
+* Latulippe, M. and Martel, S., 2016, October. A progressive multidimensional particle swarm optimizer for magnetic core placement in dipole field navigation. In 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 2314-2320). IEEE.
+* Navarro, I., Di Mario, E. and Martinoli, A., 2015, September. Distributed Particle Swarm Optimization-particle allocation and neighborhood topologies for the learning of cooperative robotic behaviors. In 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 2958-2965). IEEE.
+* Liu, Q., Zhao, J., Schütz, S. and Berns, K., 2015, September. Adaptive motor patterns and reflexes for bipedal locomotion on rough terrain. In 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 3856-3861). IEEE.
+* Dai, P. and Katupitiya, J., 2015, September. Online path tracking and motion optimization of a 4WS4WD vehicle. In 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 4133-4139). IEEE.
+* Xu, W., Hu, Z., Zhang, Y., Wang, Z. and Wu, X., 2015, September. A practical and effective method for identifying the complete inertia parameters of space robots. In 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 5435-5440). IEEE.
+* Kim, J.J. and Lee, J.J., 2013, November. Adaptation of quadruped gaits using surface classification and gait optimization. In 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems (pp. 716-721). IEEE.
+* Tang, H., Li, Y. and Xiao, X., 2013, November. A novel flexure-based dual-arm robotic system for high-throughput biomanipulations on micro-fluidic chip. In 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems (pp. 1531-1536). IEEE.
+* Matsuo, K. and Miura, J., 2012, October. Outdoor visual localization with a hand-drawn line drawing map using fastslam with pso-based mapping. In 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems (pp. 202-207). IEEE.
+* Tang, H. and Li, Y., 2012, October. Optimal design, modeling and analysis of a 2-DOF nanopositioning stage with dual-mode: Towards high-rate AFM scanning. In 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems (pp. 658-663). IEEE.
+* Huang, Y., Gueta, L.B., Chiba, R., Arai, T., Ueyama, T., Sugi, M. and Ota, J., 2011, September. Manipulator system selection based on evaluation of task completion time and cost. In 2011 IEEE/RSJ International Conference on Intelligent Robots and Systems (pp. 4698-4703). IEEE.
+* Turduev, M., Ataş, Y., Sousa, P., Gazi, V. and Marques, L., 2010, October. Cooperative chemical concentration map building using decentralized asynchronous particle swarm optimization based search by mobile robots. In 2010 IEEE/RSJ International Conference on Intelligent Robots and Systems (pp. 4175-4180). IEEE.
+* Lee, H.S. and Lee, K.M., 2009, October. Multiswarm particle filter for vision based SLAM. In 2009 IEEE/RSJ international conference on intelligent robots and systems (pp. 924-929). IEEE.
+* Zheng, Y. and Meng, Y., 2008, September. Swarming particles with multi-feature model for free-selected object tracking. In 2008 IEEE/RSJ International Conference on Intelligent Robots and Systems (pp. 2553-2558). IEEE.
+* Martin, S.R. and Newman, A.J., 2008, September. The application of particle swarm optimization and maneuver automatons during non-Markovian motion planning for air vehicles performing ground target search. In 2008 IEEE/RSJ International Conference on Intelligent Robots and Systems (pp. 2605-2610). IEEE.
+* Wang, D., Kwok, N.M., Liu, D.K., Lau, H. and Dissanayake, G., 2007, October. PSO-tuned F 2 method for multi-robot navigation. In 2007 IEEE/RSJ International Conference on Intelligent Robots and Systems (pp. 3765-3770). IEEE.
+* Jatmiko, W., Sekiyama, K. and Fukuda, T., 2006, October. A mobile robots PSO-based for odor source localization in dynamic advection-diffusion environment. In 2006 IEEE/RSJ International Conference on Intelligent Robots and Systems (pp. 4527-4532). IEEE.
+
+
+
 ## BibTeX
 
 @inproceedings{2011-BMVC-Oikonomidis,
