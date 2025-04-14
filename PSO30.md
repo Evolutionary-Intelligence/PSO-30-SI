@@ -128,6 +128,12 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
 
 * Yang, Q., Song, G.W., Chen, W.N., Jia, Y.H., Gao, X.D., Lu, Z.Y., Jeon, S.W. and Zhang, J., 2024. Random contrastive interaction for particle swarm optimization in high-dimensional environment. IEEE Transactions on Evolutionary Computation, 28(4), pp.933-949.
 
+### CBO
+
+* Carrillo, J.A., Trillos, N.G., Li, S. and Zhu, Y., 2024.
+  [FedCBO: Reaching group consensus in clustered federated learning through consensus-based optimization]().
+  Journal of Machine Learning Research, 25(214), pp.1-51.
+
 ## AAMAS
 
 * Saikia, H., Yang, F. and Peters, C., 2019, May. Priority Driven Local Optimization for Crowd Simulation. In Proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems (pp. 2180-2182).
