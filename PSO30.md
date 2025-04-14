@@ -136,6 +136,9 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
 * Bungert, L., Roith, T. and Wacker, P., 2024.
   [Polarized consensus-based dynamics for optimization and sampling](https://link.springer.com/article/10.1007/s10107-024-02095-y).
   Mathematical Programming, pp.1-31.
+  [University of Würzburg + Deutsches Elektronen-Synchrotron DESY + University of Canterbury]
+
+  * https://github.com/TimRoith/PolarCBO
 
 ## AAMAS
 
