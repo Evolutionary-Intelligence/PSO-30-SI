@@ -307,6 +307,15 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
   publisher={Oxford University Press}
 }
 
+@article{2024-MP-Bungert,
+  title={Polarized consensus-based dynamics for optimization and sampling},
+  author={Bungert, Leon and Roith, Tim and Wacker, Philipp},
+  journal={Mathematical Programming},
+  pages={1--31},
+  year={2024},
+  publisher={Springer}
+}
+
 @inproceedings{2024-USS-Zheng,
   author={Tianyue Zheng and Jingzhi Hu and Rui Tan and others},
   title={{π-Jack}: {Physical-World} adversarial attack on monocular depth estimation with perspective hijacking},
