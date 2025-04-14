@@ -312,8 +312,8 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
 }
 
 @article{2024-JMLR-Carrillo,
-  title={FedCBO: Reaching group consensus in clustered federated learning through consensus-based optimization},
-  author={Carrillo, Jos{\'e} A and Trillos, Nicolas Garcia and Li, Sixu and Zhu, Yuhua},
+  title={{FedCBO}: Reaching group consensus in clustered federated learning through consensus-based optimization},
+  author={Carrillo, Jose A and Trillos, Nicolas Garcia and Li, Sixu and others},
   journal={Journal of Machine Learning Research},
   volume={25},
   number={214},
