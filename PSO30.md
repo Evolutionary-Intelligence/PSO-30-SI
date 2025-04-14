@@ -277,6 +277,17 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
   year={2020}
 }
 
+@article{2020-TSC-Song,
+  title={Scheduling workflows with composite tasks: A nested particle swarm optimization approach},
+  author={Song, An and Chen, Wei-Neng and Luo, Xiaonan and others},
+  journal={IEEE Transactions on Services Computing},
+  volume={15},
+  number={2},
+  pages={1074--1088},
+  year={2020},
+  publisher={IEEE}
+}
+
 @article{2021-NMI-Weiel,
   title={Dynamic particle swarm optimization of biomolecular simulation parameters with flexible objective functions},
   author={Weiel, Marie and G{\"o}tz, Markus and Klein, Andr{\'e} and Coquelin, Daniel and Floca, Ralf and Schug, Alexander},
