@@ -139,6 +139,9 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
   [University of Würzburg + Deutsches Elektronen-Synchrotron DESY + University of Canterbury]
 
   * https://github.com/TimRoith/PolarCBO
+* Fornasier, M., Klock, T. and Riedl, K., 2024.
+  [Consensus-based optimization methods converge globally]().
+  SIAM Journal on Optimization, 34(3), pp.2973-3004.
 * Borghi, G., Herty, M. and Pareschi, L., 2023.
   [Constrained consensus-based optimization]().
   SIAM Journal on Optimization, 33(1), pp.211-236.
