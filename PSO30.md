@@ -107,6 +107,9 @@
   [In-silico platform for the multifunctional design of 3D printed conductive components](https://www.nature.com/articles/s41467-025-56707-y).
   Nature Communications, 16(1), p.1359.
   * University Carlos III of Madrid + Basque Center for Materials, Applications and Nanostructures + Basque Foundation for Science + Imperial College of London + University of Oxford
+* Jha, D.N., Li, Y., Wen, Z., Morgan, G., Jayaraman, P.P., Koutny, M., Rana, O.F. and Ranjan, R., 2024.
+  [GeoDeploy: Geo-distributed application deployment using benchmarking](https://ieeexplore.ieee.org/document/10697467).
+  IEEE Transactions on Parallel and Distributed Systems, 35(12), 2361-2374.
 * Song, A., Chen, W.N., Luo, X., Zhan, Z.H. and Zhang, J., 2020.
   Scheduling workflows with composite tasks: A nested particle swarm optimization approach.
   IEEE Transactions on Services Computing, 15(2), pp.1074-1088.
