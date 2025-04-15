@@ -363,6 +363,15 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
   year={2024}
 }
 
+@inproceedings{2024-IROS-Shin,
+  title={{AnytimeFusion}: Parameter-free {RGB} camera-radar sensor fusion algorithm in complex maritime situations},
+  author={Shin, Yeongha and Kim, Hanguen and Kim, Jinwhan},
+  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  pages={12493--12500},
+  year={2024},
+  organization={IEEE}
+}
+
 @article{2024-JMLR-Carrillo,
   title={{FedCBO}: Reaching group consensus in clustered federated learning through consensus-based optimization},
   author={Carrillo, Jose A and Trillos, Nicolas Garcia and Li, Sixu and others},
