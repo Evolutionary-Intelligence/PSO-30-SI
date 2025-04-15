@@ -192,7 +192,9 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
 
 ## IROS
 
-* Shin, Y., Kim, H. and Kim, J., 2024, October. AnytimeFusion: Parameter-free RGB Camera-Radar Sensor Fusion Algorithm in Complex Maritime Situations. In 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 12493-12500). IEEE.
+* Shin, Y., Kim, H. and Kim, J., 2024, October.
+  AnytimeFusion: Parameter-free RGB Camera-Radar Sensor Fusion Algorithm in Complex Maritime Situations.
+  In IEEE/RSJ International Conference on Intelligent Robots and Systems (pp. 12493-12500). IEEE.
 * Zhou, X., Xu, C. and Gao, F., 2022, October. Automatic parameter adaptation for quadrotor trajectory planning. In 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 3348-3355). IEEE.
 * Liu, H., Zhang, J. and Zhou, M., 2022, October. Particle Swarm Optimizer-based Attack Strategy with Swarm Robots. In 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 7304-7309). IEEE.
 * Ebert, J.T., Berlinger, F., Haghighat, B. and Nagpal, R., 2022, October. A hybrid PSO algorithm for multi-robot target search and decision awareness. In 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 11520-11527). IEEE.
