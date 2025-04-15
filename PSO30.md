@@ -171,7 +171,9 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
 
 ## ICRA
 
-* Chiu, D., Nagpal, R. and Haghighat, B., 2024, May. Optimization and Evaluation of a Multi Robot Surface Inspection Task Through Particle Swarm Optimization. In 2024 IEEE International Conference on Robotics and Automation (ICRA) (pp. 8996-9002). IEEE.
+* Chiu, D., Nagpal, R. and Haghighat, B., 2024, May.
+  Optimization and Evaluation of a Multi Robot Surface Inspection Task Through Particle Swarm Optimization.
+  In IEEE International Conference on Robotics and Automation (pp. 8996-9002). IEEE.
 * Muthugala, M.V.J., Samarakoon, S.B.P. and Elara, M.R., 2022, May. Design by robot: A human-robot collaborative framework for improving productivity of a floor cleaning robot. In 2022 International Conference on Robotics and Automation (ICRA) (pp. 7444-7450). IEEE.
 * Messay-Kebede, T., Sutton, G. and Djaneye-Boundjou, O., 2018, May. Geometry based self kinematic calibration method for industrial robots. In 2018 IEEE international conference on robotics and automation (ICRA) (pp. 4921-4926). IEEE.
 * Zhang, F., Yan, Z. and Du, Z., 2017, May. Preoperative planning for the multi-arm surgical robot using PSO-GP-based performance optimization. In 2017 IEEE International Conference on Robotics and Automation (ICRA) (pp. 4208-4214). IEEE.
