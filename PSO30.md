@@ -389,6 +389,17 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
   publisher={Springer}
 }
 
+@article{2024-TPDS-Jha,
+  title={GeoDeploy: Geo-distributed application deployment using benchmarking},
+  author={Jha, Devki Nandan and Li, Yinhao and Wen, Zhenyu and others},
+  journal={IEEE Transactions on Parallel and Distributed Systems},
+  volume={35},
+  number={12},
+  pages={2361--2374},
+  year={2024},
+  publisher={IEEE}
+}
+
 @inproceedings{2024-USS-Zheng,
   author={Tianyue Zheng and Jingzhi Hu and Rui Tan and others},
   title={{π-Jack}: {Physical-World} adversarial attack on monocular depth estimation with perspective hijacking},
