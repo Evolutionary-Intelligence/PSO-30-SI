@@ -348,6 +348,15 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
   publisher={ACM New York, NY, USA}
 }
 
+@inproceedings{2022-IROS-Liu,
+  title={Particle swarm optimizer-based attack strategy with swarm robots},
+  author={Liu, Huan and Zhang, JunQi and Zhou, MengChu},
+  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  pages={7304--7309},
+  year={2022},
+  organization={IEEE}
+}
+
 @inproceedings{2022-IROS-Zhou,
   title={Automatic parameter adaptation for quadrotor trajectory planning},
   author={Zhou, Xin and Xu, Chao and Gao, Fei},
