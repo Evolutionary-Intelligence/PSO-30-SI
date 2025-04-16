@@ -346,6 +346,15 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
   publisher={ACM New York, NY, USA}
 }
 
+@inproceedings{2022-IROS-Zhou,
+  title={Automatic parameter adaptation for quadrotor trajectory planning},
+  author={Zhou, Xin and Xu, Chao and Gao, Fei},
+  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  pages={3348--3355},
+  year={2022},
+  organization={IEEE}
+}
+
 @article{2022-TOG-Cheng,
   title={Exact {3D} path generation via {3D} cam-linkage mechanisms},
   author={Cheng, Yingjie and Song, Peng and Lu, Yukun and Chew, Wen Jie Jeremy and Liu, Ligang},
