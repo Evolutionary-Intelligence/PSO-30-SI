@@ -350,6 +350,15 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
   publisher={ACM New York, NY, USA}
 }
 
+@inproceedings{2022-IROS-Ebert,
+  title={A hybrid {PSO} algorithm for multi-robot target search and decision awareness},
+  author={Ebert, Julia T and Berlinger, Florian and Haghighat, Bahar and Others},
+  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  pages={11520--11527},
+  year={2022},
+  organization={IEEE}
+}
+
 @inproceedings{2022-IROS-Liu,
   title={Particle swarm optimizer-based attack strategy with swarm robots},
   author={Liu, Huan and Zhang, JunQi and Zhou, MengChu},
