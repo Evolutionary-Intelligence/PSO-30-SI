@@ -195,7 +195,9 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
 * Shin, Y., Kim, H. and Kim, J., 2024, October.
   AnytimeFusion: Parameter-free RGB Camera-Radar Sensor Fusion Algorithm in Complex Maritime Situations.
   In IEEE/RSJ International Conference on Intelligent Robots and Systems (pp. 12493-12500). IEEE.
-* Zhou, X., Xu, C. and Gao, F., 2022, October. Automatic parameter adaptation for quadrotor trajectory planning. In 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 3348-3355). IEEE.
+* Zhou, X., Xu, C. and Gao, F., 2022, October.
+  Automatic parameter adaptation for quadrotor trajectory planning.
+  In IEEE/RSJ International Conference on Intelligent Robots and Systems (pp. 3348-3355). IEEE.
 * Liu, H., Zhang, J. and Zhou, M., 2022, October. Particle Swarm Optimizer-based Attack Strategy with Swarm Robots. In 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 7304-7309). IEEE.
 * Ebert, J.T., Berlinger, F., Haghighat, B. and Nagpal, R., 2022, October. A hybrid PSO algorithm for multi-robot target search and decision awareness. In 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 11520-11527). IEEE.
 * Tehrani, N.D., Krzywosz, A., Cherepinsky, I. and Carlson, S., 2022, October. Multi-objective task allocation for multi-agent systems using hierarchical cost function. In 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 12045-12050). IEEE.
