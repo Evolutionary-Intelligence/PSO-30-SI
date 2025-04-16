@@ -207,7 +207,9 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
 * Tehrani, N.D., Krzywosz, A., Cherepinsky, I. and Carlson, S., 2022, October.
   Multi-objective task allocation for multi-agent systems using hierarchical cost function.
   In IEEE/RSJ International Conference on Intelligent Robots and Systems (pp. 12045-12050). IEEE.
-* Duisterhof, B.P., Li, S., Burgués, J., Reddi, V.J. and De Croon, G.C., 2021, September. Sniffy bug: A fully autonomous swarm of gas-seeking nano quadcopters in cluttered environments. In 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 9099-9106). IEEE.
+* Duisterhof, B.P., Li, S., Burgués, J., Reddi, V.J. and De Croon, G.C., 2021, September.
+  Sniffy bug: A fully autonomous swarm of gas-seeking nano quadcopters in cluttered environments.
+  In IEEE/RSJ International Conference on Intelligent Robots and Systems (pp. 9099-9106). IEEE.
 * Hoang, V.T., Phung, M.D., Dinh, T.H. and Ha, Q.P., 2018, October. Angle-encoded swarm optimization for uav formation path planning. In 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 5239-5244). IEEE.
 * Yang, L., Zhang, Y., Vong, C.I. and Zhang, L., 2018, October. Automated control of multifunctional magnetic spores using fluorescence imaging for microrobotic cargo delivery. In 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 1-6). IEEE.
 * Jiang, Z., Sun, Y., Zhao, S., Hu, Y. and Zhang, J., 2017, September. A model of vertebral motion and key point recognition of drilling with force in robot-assisted spinal surgery. In 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 6455-6462). IEEE.
