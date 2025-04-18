@@ -162,7 +162,7 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
 ## AAMAS
 
 * Saikia, H., Yang, F. and Peters, C., 2019, May.
-  Priority driven local optimization for crowd simulation.
+  [Priority driven local optimization for crowd simulation]().
   In Proceedings of International Conference on Autonomous Agents and MultiAgent Systems (pp. 2180-2182).
 * Bell, N. and Oommen, B.J., 2017.
   A novel abstraction for swarm intelligence: Particle field optimization.
