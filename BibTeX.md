@@ -1,5 +1,14 @@
 # BibTeX
 
+@inproceedings{206-IROS-,
+  title={A mobile robots {PSO-based} for odor source localization in dynamic advection-diffusion environment},
+  author={Jatmiko, Wisnu and Sekiyama, Kosuke and Fukuda, Toshio},
+  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  pages={4527--4532},
+  year={2006},
+  organization={IEEE}
+}
+
 @inproceedings{2011-BMVC-Oikonomidis,
   title={Efficient model-based 3D tracking of hand articulations using {Kinect}},
   author={Oikonomidis, Iason and Kyriazis, Nikolaos and Argyros, Antonis},
