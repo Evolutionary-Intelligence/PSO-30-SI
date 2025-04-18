@@ -183,8 +183,8 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
   [Design by robot: A human-robot collaborative framework for improving productivity of a floor cleaning robot](https://ieeexplore.ieee.org/abstract/document/9812314).
   In International Conference on Robotics and Automation (pp. 7444-7450). IEEE.
 * Messay-Kebede, T., Sutton, G. and Djaneye-Boundjou, O., 2018, May.
-  Geometry based self kinematic calibration method for industrial robots.
-  In IEEE international conference on robotics and automation (pp. 4921-4926). IEEE.
+  [Geometry based self kinematic calibration method for industrial robots](https://ieeexplore.ieee.org/abstract/document/8460764).
+  In IEEE International Conference on Robotics and Automation (pp. 4921-4926). IEEE.
 * Zhang, F., Yan, Z. and Du, Z., 2017, May.
   Preoperative planning for the multi-arm surgical robot using PSO-GP-based performance optimization.
   In IEEE International Conference on Robotics and Automation (pp. 4208-4214). IEEE.
