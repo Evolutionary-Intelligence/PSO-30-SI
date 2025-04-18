@@ -422,6 +422,15 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
   publisher={ACM New York, NY, USA}
 }
 
+@inproceedings{2022-ICRA-Muthugala,
+  title={Design by robot: A human-robot collaborative framework for improving productivity of a floor cleaning robot},
+  author={Muthugala, MA Viraj J and Samarakoon, SM Bhagya P and Elara, Mohan Rajesh},
+  booktitle={International Conference on Robotics and Automation},
+  pages={7444--7450},
+  year={2022},
+  organization={IEEE}
+}
+
 @inproceedings{2022-IROS-Ebert,
   title={A hybrid {PSO} algorithm for multi-robot target search and decision awareness},
   author={Ebert, Julia T and Berlinger, Florian and Haghighat, Bahar and Others},
