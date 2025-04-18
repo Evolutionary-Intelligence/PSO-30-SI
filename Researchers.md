@@ -8,3 +8,4 @@
 * [Marco Dorigo](https://iridia.ulb.ac.be/~mdorigo/HomePageDorigo/): AAAI/IEEE Fellow
 * [Massimo Fornasier](https://scholar.google.com/citations?user=n8RjBx4AAAAJ&hl=en&oi=ao): Technical University of Munich
 * [Radhika Nagpal](https://www.radhikanagpal.org/): AAAI/ACM Fellow, Princeton University
+* Yuhui Shi
