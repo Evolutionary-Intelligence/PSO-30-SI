@@ -1,6 +1,7 @@
 # A 2025 Seminar on 30-Year Particle Swarm Optimization (PSO) Inspired by Swarm Intelligence (SI)
 
-This is one part of [https://evolutionary-intelligence.github.io/](https://evolutionary-intelligence.github.io/) for the **PSO30** Seminar on SUSTech, China.
+This is one part of [https://evolutionary-intelligence.github.io/](https://evolutionary-intelligence.github.io/)
+for the **PSO30** Seminar on SUSTech, Shenzhen, China.
 
 ## Members of Program Committee
 
