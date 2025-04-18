@@ -472,6 +472,15 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
   year={2024}
 }
 
+@inproceedings{2024-ICRA-Chiu,
+  title={Optimization and Evaluation of a Multi Robot Surface Inspection Task Through Particle Swarm Optimization},
+  author={Chiu, Darren and Nagpal, Radhika and Haghighat, Bahar},
+  booktitle={IEEE International Conference on Robotics and Automation},
+  pages={8996--9002},
+  year={2024},
+  organization={IEEE}
+}
+
 @inproceedings{2024-IROS-Shin,
   title={{AnytimeFusion}: Parameter-free {RGB} camera-radar sensor fusion algorithm in complex maritime situations},
   author={Shin, Yeongha and Kim, Hanguen and Kim, Jinwhan},
