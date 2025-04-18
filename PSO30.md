@@ -295,7 +295,7 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
 
 * [Jing Liang](https://www5.zzu.edu.cn/cilab/)
 * [Marco Dorigo](https://iridia.ulb.ac.be/~mdorigo/HomePageDorigo/): AAAI/IEEE Fellow
-* [Massimo Fornasier]():
+* [Massimo Fornasier](https://scholar.google.com/citations?user=n8RjBx4AAAAJ&hl=en&oi=ao): Technical University of Munich
 * [Radhika Nagpal](https://scholar.google.com/citations?hl=en&user=a3ZGDsoAAAAJ&view_op=list_works): AAAI/ACM Fellow
 
 
