@@ -161,8 +161,12 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
 
 ## AAMAS
 
-* Saikia, H., Yang, F. and Peters, C., 2019, May. Priority Driven Local Optimization for Crowd Simulation. In Proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems (pp. 2180-2182).
-* Bell, N. and Oommen, B.J., 2017. A novel abstraction for swarm intelligence: particle field optimization. Autonomous Agents and Multi-Agent Systems, 31(2), pp.362-385.
+* Saikia, H., Yang, F. and Peters, C., 2019, May.
+  Priority driven local optimization for crowd simulation.
+  In Proceedings of International Conference on Autonomous Agents and MultiAgent Systems (pp. 2180-2182).
+* Bell, N. and Oommen, B.J., 2017.
+  A novel abstraction for swarm intelligence: Particle field optimization.
+  Autonomous Agents and Multi-Agent Systems, 31(2), pp.362-385.
 * Bell, N. and Oommen, B.J., 2015, May. Particle Field Optimization: A New Paradigm for Swarm Intelligence. In Proceedings of the 2015 International Conference on Autonomous Agents and Multiagent Systems (pp. 257-265).
 * Turduev, M., Cabrita, G., Kırtay, M., Gazi, V. and Marques, L., 2014. Experimental studies on chemical concentration map building by a multi-robot system using bio-inspired algorithms. Autonomous agents and multi-agent systems, 28, pp.72-100.
 * Lin, C.F. and Hu, S.L., 2007, May. Multi-task overlapping coalition parallel formation algorithm. In Proceedings of the 6th international joint conference on Autonomous agents and multiagent systems (pp. 1-3).
