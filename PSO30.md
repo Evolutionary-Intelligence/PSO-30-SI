@@ -186,7 +186,7 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
   [Geometry based self kinematic calibration method for industrial robots](https://ieeexplore.ieee.org/abstract/document/8460764).
   In IEEE International Conference on Robotics and Automation (pp. 4921-4926). IEEE.
 * Zhang, F., Yan, Z. and Du, Z., 2017, May.
-  Preoperative planning for the multi-arm surgical robot using PSO-GP-based performance optimization.
+  [Preoperative planning for the multi-arm surgical robot using PSO-GP-based performance optimization](https://ieeexplore.ieee.org/abstract/document/7989484).
   In IEEE International Conference on Robotics and Automation (pp. 4208-4214). IEEE.
 * Ou, Y., Kang, P., Kim, M.J. and Julius, A.A., 2015, May.
   Algorithms for simultaneous motion control of multiple T. pyriformis cells: Model predictive control and Particle Swarm Optimization.
