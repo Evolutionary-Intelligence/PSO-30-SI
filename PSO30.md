@@ -374,7 +374,7 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
 @inproceedings{2018-ICRA-MessayKebede,
   title={Geometry based self kinematic calibration method for industrial robots},
   author={Messay-Kebede, Temesguen and Sutton, George and Djaneye-Boundjou, Ouboti},
-  booktitle={IEEE international conference on robotics and automation},
+  booktitle={IEEE International Conference on Robotics and Automation},
   pages={4921--4926},
   year={2018},
   organization={IEEE}
