@@ -293,8 +293,8 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
 
 ## Some (Rather All) Focuses on Researchers
 
-* [Andries Engelbrecht]
-* [Carlos A. Coello Coello]()
+* Andries Engelbrecht
+* Carlos A. Coello Coello
 * [Jing Liang](https://www5.zzu.edu.cn/cilab/)
 * [Marco Dorigo](https://iridia.ulb.ac.be/~mdorigo/HomePageDorigo/): AAAI/IEEE Fellow
 * [Massimo Fornasier](https://scholar.google.com/citations?user=n8RjBx4AAAAJ&hl=en&oi=ao): Technical University of Munich
