@@ -293,6 +293,7 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
 
 ## Some (Rather All) Focuses on Researchers
 
+* [Andries Engelbrecht]
 * [Carlos A. Coello Coello]()
 * [Jing Liang](https://www5.zzu.edu.cn/cilab/)
 * [Marco Dorigo](https://iridia.ulb.ac.be/~mdorigo/HomePageDorigo/): AAAI/IEEE Fellow
