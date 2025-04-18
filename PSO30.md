@@ -176,7 +176,7 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
   In IEEE International Conference on Robotics and Automation (pp. 8996-9002). IEEE.
   [University of Southern California + Princeton University + University of Groningen]
 * Muthugala, M.V.J., Samarakoon, S.B.P. and Elara, M.R., 2022, May.
-  Design by robot: A human-robot collaborative framework for improving productivity of a floor cleaning robot.
+  [Design by robot: A human-robot collaborative framework for improving productivity of a floor cleaning robot](https://ieeexplore.ieee.org/abstract/document/9812314).
   In International Conference on Robotics and Automation (pp. 7444-7450). IEEE.
 * Messay-Kebede, T., Sutton, G. and Djaneye-Boundjou, O., 2018, May.
   Geometry based self kinematic calibration method for industrial robots.
