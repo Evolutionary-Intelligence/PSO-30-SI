@@ -390,6 +390,15 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
   organization={IEEE}
 }
 
+@inproceedings{2022-IROS-Tehrani,
+  title={Multi-objective task allocation for multi-agent systems using hierarchical cost function},
+  author={Tehrani, Navid Dadkhah and Krzywosz, Andrew and Cherepinsky, Igor and Carlson, Sean},
+  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  pages={12045--12050},
+  year={2022},
+  organization={IEEE}
+}
+
 @inproceedings{2022-IROS-Zhou,
   title={Automatic parameter adaptation for quadrotor trajectory planning},
   author={Zhou, Xin and Xu, Chao and Gao, Fei},
