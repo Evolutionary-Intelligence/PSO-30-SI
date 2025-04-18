@@ -288,7 +288,7 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
   PSO-tuned F2 method for multi-robot navigation.
   In IEEE/RSJ International Conference on Intelligent Robots and Systems (pp. 3765-3770). IEEE.
 * Jatmiko, W., Sekiyama, K. and Fukuda, T., 2006, October.
-  A mobile robots PSO-based for odor source localization in dynamic advection-diffusion environment.
+  [A mobile robots PSO-based for odor source localization in dynamic advection-diffusion environment](https://ieeexplore.ieee.org/abstract/document/4059129).
   In IEEE/RSJ International Conference on Intelligent Robots and Systems (pp. 4527-4532). IEEE.
 
 ## Some (Rather All) Focuses on Researchers
