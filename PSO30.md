@@ -172,7 +172,7 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
 ## ICRA
 
 * Chiu, D., Nagpal, R. and Haghighat, B., 2024, May.
-  Optimization and Evaluation of a Multi Robot Surface Inspection Task Through Particle Swarm Optimization.
+  [Optimization and evaluation of a multi robot surface inspection task through particle swarm optimization]().
   In IEEE International Conference on Robotics and Automation (pp. 8996-9002). IEEE.
 * Muthugala, M.V.J., Samarakoon, S.B.P. and Elara, M.R., 2022, May.
   Design by robot: A human-robot collaborative framework for improving productivity of a floor cleaning robot.
