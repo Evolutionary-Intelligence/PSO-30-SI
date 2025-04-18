@@ -371,6 +371,15 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
   publisher={ACM New York, NY, USA}
 }
 
+@inproceedings{2018-ICRA-MessayKebede,
+  title={Geometry based self kinematic calibration method for industrial robots},
+  author={Messay-Kebede, Temesguen and Sutton, George and Djaneye-Boundjou, Ouboti},
+  booktitle={IEEE international conference on robotics and automation},
+  pages={4921--4926},
+  year={2018},
+  organization={IEEE}
+}
+
 @article{2018-TOG-Lira,
   title={Fabricable {Eulerian} wires for {3D} shape abstraction},
   author={Lira, Wallace and Fu, Chi-Wing and Zhang, Hao},
