@@ -192,8 +192,8 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
   Algorithms for simultaneous motion control of multiple T. pyriformis cells: Model predictive control and Particle Swarm Optimization.
   In IEEE International Conference on Robotics and Automation (pp. 3507-3512). IEEE.
 * Di Mario, E., Navarro, I. and Martinoli, A., 2015, May.
-  [A distributed noise-resistant particle swarm optimization algorithm for high-dimensional multi-robot learning]().
-  In IEEE international conference on robotics and automation (pp. 5970-5976). IEEE.
+  [A distributed noise-resistant particle swarm optimization algorithm for high-dimensional multi-robot learning](https://ieeexplore.ieee.org/document/7140036/).
+  In IEEE International Conference on Robotics and Automation (pp. 5970-5976). IEEE.
 * Couceiro, M.S., Rocha, R.P. and Ferreira, N.M.F., 2013, May.
   Fault-tolerance assessment of a darwinian swarm exploration algorithm under communication constraints.
   In IEEE International Conference on Robotics and Automation (pp. 2008-2013). IEEE.
