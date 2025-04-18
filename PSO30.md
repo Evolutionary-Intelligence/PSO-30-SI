@@ -287,7 +287,7 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
   A mobile robots PSO-based for odor source localization in dynamic advection-diffusion environment.
   In IEEE/RSJ International Conference on Intelligent Robots and Systems (pp. 4527-4532). IEEE.
 
-## Some (Rather All) Focus on Researchers
+## Some (Rather All) Focuses on Researchers
 
 * [Radhika Nagpal](https://scholar.google.com/citations?hl=en&user=a3ZGDsoAAAAJ&view_op=list_works): AAAI/ACM Fellow
 
