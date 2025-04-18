@@ -1,6 +1,6 @@
 # BibTeX
 
-@inproceedings{206-IROS-,
+@inproceedings{206-IROS-Jatmiko,
   title={A mobile robots {PSO-based} for odor source localization in dynamic advection-diffusion environment},
   author={Jatmiko, Wisnu and Sekiyama, Kosuke and Fukuda, Toshio},
   booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems},
