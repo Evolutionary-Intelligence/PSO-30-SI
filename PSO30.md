@@ -351,6 +351,15 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
   year={2015}
 }
 
+@inproceedings{2015-ICRA-DiMario,
+  title={A distributed noise-resistant particle swarm optimization algorithm for high-dimensional multi-robot learning},
+  author={Di Mario, Ezequiel and Navarro, Inaki and Martinoli, Alcherio},
+  booktitle={IEEE International Conference on Robotics and Automation},
+  pages={5970--5976},
+  year={2015},
+  organization={IEEE}
+}
+
 @article{2016-TOG-Koutaki,
   title={Binary continuous image decomposition for multi-view display},
   author={Koutaki, Gou},
