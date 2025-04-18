@@ -174,7 +174,7 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
 * Chiu, D., Nagpal, R. and Haghighat, B., 2024, May.
   [Optimization and evaluation of a multi robot surface inspection task through particle swarm optimization](https://ieeexplore.ieee.org/abstract/document/10611661).
   In IEEE International Conference on Robotics and Automation (pp. 8996-9002). IEEE.
-  [University of Southern California, Los Angeles + Princeton University + University of Groningen]
+  [University of Southern California + Princeton University + University of Groningen]
 * Muthugala, M.V.J., Samarakoon, S.B.P. and Elara, M.R., 2022, May.
   Design by robot: A human-robot collaborative framework for improving productivity of a floor cleaning robot.
   In International Conference on Robotics and Automation (pp. 7444-7450). IEEE.
