@@ -1,5 +1,14 @@
 # BibTeX
 
+@inproceedings{2006-Yamada-ICRA,
+  title={Dynamic reconfiguration of reconfigurable manufacturing systems using particle swarm optimization},
+  author={Yamada, Yasuhiro},
+  booktitle={International Conference on Robotics and Automation},
+  pages={1444--1449},
+  year={2006},
+  organization={IEEE}
+}
+
 @inproceedings{2006-IROS-Jatmiko,
   title={A mobile robots {PSO-based} for odor source localization in dynamic advection-diffusion environment},
   author={Jatmiko, Wisnu and Sekiyama, Kosuke and Fukuda, Toshio},
