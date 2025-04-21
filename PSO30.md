@@ -204,7 +204,7 @@ Yuan, X., Ni, W., Ding, M., Wei, K., Li, J. and Poor, H.V., 2023. Amplitude-vary
   Optimum design and development of an XY flexure micromanipulator for micro scale positioning.
   In IEEE International Conference on Robotics and Automation (pp. 3112-3117). IEEE.
 * Yamada, Y., 2006, May.
-  Dynamic reconfiguration of reconfigurable manufacturing systems using particle swarm optimization.
+  [Dynamic reconfiguration of reconfigurable manufacturing systems using particle swarm optimization](https://ieeexplore.ieee.org/abstract/document/1641912).
   In IEEE International Conference on Robotics and Automation (pp. 1444-1449). IEEE.
 
 ##
