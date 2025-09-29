@@ -6,6 +6,9 @@
 * Ab Wahab, M.N., Nefti-Meziani, S. and Atyabi, A., 2015.
   A comprehensive review of swarm optimization algorithms.
   PloS One, 10(5), p.e0122827.
+* Boussaïd, I., Lepagnot, J. and Siarry, P., 2013.
+  A survey on optimization metaheuristics.
+  Information Sciences, 237, pp.82-117.
 * Poli, R., Kennedy, J. and Blackwell, T., 2007.
   Particle swarm optimization: An overview.
   Swarm Intelligence, 1(1), pp.33-57.
